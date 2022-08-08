@@ -2,7 +2,7 @@
 
 Dev Academy final project. An interactive map where you can learn about different countries in the world
 
-##Post Dev Academy Notes
+## Post Dev Academy Notes
 
 - In our group we were excited to do a project that involved an interactive map. We had never used SVGs before so we were happy we were able to accomplish this. We had a big focus on planning (as seen by our bootcamp Readme below) and incorporating agile techniques such as stand ups, agile roles, spikes etc.
 
