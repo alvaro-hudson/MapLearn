@@ -1,7 +1,16 @@
 # Map Learn
 
-An interactive map where you can learn about different countries in the world
+Dev Academy final project. An interactive map where you can learn about different countries in the world
 
+##Post Dev Academy Notes
+
+- In our group we were excited to do a project that involved an interactive map. We had never used SVGs before so we were happy we were able to accomplish this. We had a big focus on planning (as seen by our bootcamp Readme below) and incorporating agile techniques such as stand ups, agile roles, spikes etc.
+
+- There are certain things I would do differently or would like to alter. I would have liked if we had had time to add a zoom function and added more responsiveness. As well, I think there are changes we could make to the styling and colour choices, for example with the colour scheme/contrasts, to make it more accessible for everyone. But at the same time these are helpful reflections I can now keep in mind for future projects as well.
+
+- - - - - - -  - - - - - - - - - - - - - - - - - - - - - - 
+
+## Dev Academy Aotearoa Final Project ReadMe
 
 ## MVP
 
